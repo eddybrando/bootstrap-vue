@@ -36,7 +36,7 @@
           },
           {
             "prop": "rounded",
-            "description": "Apply rounding to the overlay to match your content routing. Valid values are `true`, `'sm'`, `lg`, `circle`, `pill`, `top`, `right`, `bottom`, or `left`"
+            "description": "Apply rounding to the overlay to match your content routing. Valid values are `true`, `'sm'`, `'lg'`, `'circle'`, `'pill'`, `'top'`, `'right'`, `'bottom'`, or `'left'`"
           },
           {
             "prop": "noCenter",
